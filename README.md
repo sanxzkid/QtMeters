@@ -4,7 +4,7 @@ QtMeters
 Qt Thermother and Speedometer UI
 
 
-User Example
+Example
 ========
 
 Comming Soon
